@@ -18,6 +18,6 @@
 __pycache__/
 *.pyc
 
-# Local editor tooling (not part of the game)
+# Local editor tooling
 addons/
 requirements.txt
