@@ -2,8 +2,9 @@
 
 A cozy little stealth-stacking game — build a tower out of household junk tall enough to reach the star, **without waking the sleeping cat**. 🌙
 
-![gameplay screenshot](docs/screenshot_1.png)
-<!-- 📸 drop your screenshots into a `docs/` folder and update the paths above -->
+> A small personal project made just for fun — practicing pixel art and learning Godot. No big ambitions here, just vibes. ✨
+
+![gameplay screenshot](screenshots/screenshot_full.png)
 
 ---
 
@@ -24,6 +25,25 @@ A cozy little stealth-stacking game — build a tower out of household junk tall
 
 Toggle between them any time with the switch in the top-left corner. 🔀
 
+## 📸 Screenshots
+
+<table>
+<tr>
+<td width="50%">
+
+**Challenge mode** — building carefully, one careless drop from disaster
+![tower building](screenshots/screenshot_tower.png)
+
+</td>
+<td width="50%">
+
+**Sandbox mode** — no rules, just chaos
+![sandbox chaos](screenshots/screenshot_sandbox.png)
+
+</td>
+</tr>
+</table>
+
 ## 🛠️ Built with
 
 - [Godot 4.7](https://godotengine.org/) — engine
@@ -34,19 +54,18 @@ Toggle between them any time with the switch in the top-left corner. 🔀
 ## 📂 Project structure
 
 ```
-purrtal-dash/
-├── scenes/       # main game scene, player/furniture scenes
-├── scripts/      # gameplay logic (GDScript)
-├── sprites/      # all pixel art
-├── sounds/       # SFX
-├── music/        # background music
-├── fonts/        # UI font
-└── shaders/      # transition/blur shader
+scenes/       # the main room scene
+scripts/      # gameplay logic (GDScript)
+sprites/      # all pixel art
+sounds/       # SFX
+music/        # background music
+fonts/        # UI font
+shaders/      # transition/blur shader
 ```
 
 ## ✨ Status
 
-In active development — built iteratively with a *lot* of physics tuning. 🐣
+Done! 🎉 Built iteratively with a *lot* of physics tuning. Not actively maintained, but feel free to poke around.
 
 ## 📜 License
 
