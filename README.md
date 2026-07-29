@@ -49,7 +49,8 @@ Toggle between them any time with the switch in the top-left corner. 🔀
 - [Godot 4.7](https://godotengine.org/) — engine
 - GDScript
 - Pixel font: [PixelOperator](https://www.dafont.com/pixel-operator.font) by Jayvee Enaguas
-- Original art, sound effects and music 🎨🎵
+- Music made with [BeepBox](https://www.beepbox.co/) 🎵
+- Original art and sound effects 🎨
 
 ## 📂 Project structure
 
