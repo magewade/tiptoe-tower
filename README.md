@@ -31,7 +31,7 @@ Toggle between them any time with the switch in the top-left corner. 🔀
 <tr>
 <td width="50%">
 
-**Challenge mode** — building carefully, one careless drop from disaster
+**Challenge mode** — building carefully
 ![tower building](screenshots/screenshot_tower.png)
 
 </td>
