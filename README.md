@@ -1,10 +1,10 @@
-# 🐱 Tiptoe Tower
+![Tiptoe Tower](pics/Main_cover.jpeg)
 
 A cozy little stealth-stacking game — build a tower out of household junk tall enough to reach the star, **without waking the sleeping cat**. 🌙
 
 > A small personal project made just for fun — practicing pixel art and learning Godot. No big ambitions here, just vibes. ✨
 
-![gameplay screenshot](screenshots/screenshot_full.png)
+<p align="center"><img src="pics/crop_animated.gif" width="500" alt="sleepy cat"></p>
 
 ---
 
@@ -26,6 +26,8 @@ A cozy little stealth-stacking game — build a tower out of household junk tall
 Toggle between them any time with the switch in the top-left corner. 🔀
 
 ## 📸 Screenshots
+
+![the room](screenshots/screenshot_full.png)
 
 <table>
 <tr>
