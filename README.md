@@ -20,8 +20,8 @@ A cozy little stealth-stacking game — build a tower out of household junk tall
 
 | Mode | What happens |
 |---|---|
-| 🟦 **Sandbox** | Infinite items, no consequences — just mess around and build. |
-| 🟥 **Challenge** | Limited items, real stakes — wake the cat and it's over. |
+| 🩵 **Sandbox** | Infinite items, no consequences — just mess around and build. |
+| ❤️ **Challenge** | Limited items, real stakes — wake the cat and it's over. |
 
 Toggle between them any time with the switch in the top-left corner. 🔀
 

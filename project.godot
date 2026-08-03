@@ -23,10 +23,6 @@ GameManager="*uid://bv5ssy4rgcbg0"
 
 window/stretch/mode="canvas_items"
 
-[editor_plugins]
-
-enabled=PackedStringArray("res://addons/godot_mcp/plugin.cfg")
-
 [input]
 
 jump={
